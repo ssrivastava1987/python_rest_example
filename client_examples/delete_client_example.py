@@ -1,6 +1,6 @@
 import requests
 
-api_url = "https://jsonplaceholder.typicode.com/todos/10"
-response = requests.delete(api_url)
+API_URL = "https://jsonplaceholder.typicode.com/todos/10"
+response = requests.delete(API_URL)
 response.json()
 print(response.json())
