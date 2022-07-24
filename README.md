@@ -1,4 +1,4 @@
-# python_rest_example
+# Python REST Example
 
 ## Added example to call rest api's via python
 ```text
